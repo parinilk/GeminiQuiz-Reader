@@ -73,16 +73,26 @@ quiz-manager-streamlit/
 ├── requirements.txt
 ├── README.md
 ├── tasks/
+│   ├── task_1/
+│   │   └── task_1.py
+│   ├── task_2/
+│   │   └── task_2.py
 │   ├── task_3/
 │   │   └── task_3.py
 │   ├── task_4/
 │   │   └── task_4.py
 │   ├── task_5/
 │   │   └── task_5.py
+│   ├── task_6/
+│   │   └── task_6.py
+│   ├── task_7/
+│   │   └── task_7.py
 │   ├── task_8/
 │   │   └── task_8.py
-│   └── task_9/
-│       └── task_9.py
+│   ├── task_9/
+│   │   └── task_9.py
+│   └── task_10/
+│       └── task_10.py
 └── venv/
 ```
 
